@@ -20,4 +20,6 @@ Navigate to your main decompressed folder.
 **3. Organize WAV Files:**
 - Distribute the WAV files into their corresponding 5-day folders. This step requires careful attention to ensure that each file is placed in the correct folder corresponding to its timestamp.
 
+---
+
 [← Previous: Decompressing Files](1-DecompressingFiles.md) | [Next: Building and Running the PAMGuard Detector →](3-BuildingAndRunningThePAMGuardDetector.md)

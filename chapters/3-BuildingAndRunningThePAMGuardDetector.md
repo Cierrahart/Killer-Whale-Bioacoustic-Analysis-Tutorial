@@ -70,4 +70,6 @@ Choose the folder containing your raw wave recordings, ideally selecting all WAV
 - After each session, verify the data in MySQL.
 - To process a new batch, update the input data source and database accordingly before running the detector again.
 
+---
+
 [← Previous: File Organizing](2-FileOrganizing.md) | [Next: Preparing the Results for Raven Pro →](4-PreparingResultsForRavenPro.md)

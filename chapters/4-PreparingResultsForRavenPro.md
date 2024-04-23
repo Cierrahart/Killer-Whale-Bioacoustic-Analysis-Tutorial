@@ -25,4 +25,6 @@ This section provides a guide to exporting detection summaries from MySQL and co
 - Confirm the newly created TXT file is located in the output directory.
 - This file is now formatted correctly and ready to be imported into Raven Pro for subsequent analysis.
 
+---
+
 [← Previous: Building and Running the PAMGuard Detector](3-BuildingAndRunningThePAMGuardDetector.md) | [Next: Raven Pro Analysis →](5-RavenProAnalysis.md) 

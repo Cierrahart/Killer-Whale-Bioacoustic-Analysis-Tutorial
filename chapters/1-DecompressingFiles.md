@@ -15,7 +15,7 @@ This section guides you through the process of decompressing compressed WAV file
 **2. Install the X3 Converter:**
 - Locate the downloaded .zip file on your laptop and extract the contents.
 - Navigate to the folder named “X3 Converter” and double-click the “launch.bat” file to start the installation. Once launched, you should see a window that looks like this:
-![](../assets/1-DecompressingFiles/WhatWindowShouldLookLikeAfterDownloading.png)
+<img src="../assets/1-DecompressingFiles/WhatWindowShouldLookLikeAfterDownloading.png" width="400">
 
 **3. Prepare the Files for Decompression:**
 - In the converter’s window, use the left panel to locate and select the compressed WAV files you wish to decompress.
@@ -24,6 +24,8 @@ This section guides you through the process of decompressing compressed WAV file
 **4. Decompress the Files:**
 - After selecting the compressed files in the left panel, click the 'Convert' button. This action will decompress the files and transfer them to the designated location in the right panel.
 :sunglasses:
+
+---
 
 [← Back to README](../README.md) | [Next: File Organizing →](2-FileOrganizing.md)
 
