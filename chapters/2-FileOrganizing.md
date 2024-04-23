@@ -1,12 +1,12 @@
 # Part 2: File Organizing
 
-### **Objective** 
+### Objective
 To organize WAV files into manageable chunks to prevent software crashes and reduce processing times in PAMGuard and Raven Pro.
 
-### **Description** 
+### Description
 This section outlines the preliminary steps for organizing WAV files, particularly useful for systems with limitations on processing large volumes of data simultaneously. We will break down the data into 5-day chunks, which balances the load effectively for both detection in PAMGuard and analysis in Raven Pro.
 
- ### **Steps**
+ ### Steps
 **1. Create Main Folders:**
 Navigate to your main decompressed folder.
 - Create subfolders to represent each 5-day period of data collection. 
@@ -20,4 +20,4 @@ Navigate to your main decompressed folder.
 **3. Organize WAV Files:**
 - Distribute the WAV files into their corresponding 5-day folders. This step requires careful attention to ensure that each file is placed in the correct folder corresponding to its timestamp.
 
-[← Previous: Decompressing Files](1-DecompressingFiles.md) | [Next: Building and Running the PAMGuard Detector →](3-BuildingThePAMGuardDetector.md)
+[← Previous: Decompressing Files](1-DecompressingFiles.md) | [Next: Building and Running the PAMGuard Detector →](3-BuildingAndRunningThePAMGuardDetector.md)
