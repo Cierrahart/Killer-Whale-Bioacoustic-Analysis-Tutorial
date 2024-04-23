@@ -48,6 +48,7 @@ Choose the folder containing your raw wave recordings, ideally selecting all WAV
 - Change the Number of Panels to 1 and hit Enter.
 - It will look like this:
 <img src="../assets/3-BuildingAndRunningThePAMGuardDetector/SpectogramParameters.png" width="300">
+
 - Configure the display to show one panel and enable overlays of detected contours by right-clicking the spectrogram and adjusting the contours setting.
 - Make sure that "enable" is selected and max frequency is set to 30000 so the contours appear on the spectrogram.
 - The "Contour" settings will look like this:
@@ -64,6 +65,7 @@ Choose the folder containing your raw wave recordings, ideally selecting all WAV
 - View the data model via *File -> Show Data Model* to ensure all connections are correct.
 - The model will look like this:
 <img src="../assets/3-BuildingAndRunningThePAMGuardDetector/PamguardDataModel.png" width="600">
+
 - Start the detection process by clicking the red play button at the top of the PAMGuard window. 
 - After each session, verify the data in MySQL.
 - To process a new batch, update the input data source and database accordingly before running the detector again.
