@@ -40,7 +40,7 @@ Choose the folder containing your raw wave recordings, ideally selecting all WAV
 - Connection type = Connect 8 (sides and diagonals), minimum length = 15 time slices, minimum total size = 20 pixels, crossing and joining = re-link across the join and max cross length = 25.
 - Click the "Noise and Thresholding" tab and select all the tick boxes leaving the other settings at default. 
 - The two tabs should look like this:
-<img src="../assets/3-BuildingAndRunningThePAMGuardDetector/WhistleandMoan2.png" width="200"><img src="../assets/3-BuildingAndRunningThePAMGuardDetector/WhistleandMoan.png" width="200">
+<img src="../assets/3-BuildingAndRunningThePAMGuardDetector/WhistleandMoan.png" width="450">
 
 **6. Create a Spectrogram Display:**
 - Add a spectrogram display via *File -> Add Modules -> Displays -> User Displays.*
@@ -63,7 +63,7 @@ Choose the folder containing your raw wave recordings, ideally selecting all WAV
 **8. Run the Detector:**
 - View the data model via *File -> Show Data Model* to ensure all connections are correct.
 - The model will look like this:
-<img src="../assets/3-BuildingAndRunningThePAMGuardDetector/PamguardDataModel.png" width="400">
+<img src="../assets/3-BuildingAndRunningThePAMGuardDetector/PamguardDataModel.png" width="600">
 - Start the detection process by clicking the red play button at the top of the PAMGuard window. 
 - After each session, verify the data in MySQL.
 - To process a new batch, update the input data source and database accordingly before running the detector again.
