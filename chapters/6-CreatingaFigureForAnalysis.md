@@ -1,10 +1,10 @@
-# Part 6: Statistical Analysis
+# Part 6: Creating a Figure for Analysis
 
 ### Objective
-To conduct statistical analysis on the acoustic data to assess the presence and absence of killer whales at different times of the day over a series of days.
+To create an image for visual analysis on the acoustic data to assess the presence and absence of killer whales at different times of the day over a series of days.
 
 ### Description
-This section details the process of preparing and analyzing acoustic detection data for statistical analysis. The analysis focuses on filtering and organizing data to identify unique occurrences of killer whale vocalizations by time and date, and visually representing this data in a figure.
+This section details the process of preparing and analyzing acoustic detection data for visual analysis. The analysis focuses on filtering and organizing data to identify unique occurrences of killer whale vocalizations by time and date, and visually representing this data in a figure.
 
 ### Steps
 

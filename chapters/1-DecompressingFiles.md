@@ -23,7 +23,6 @@ This section guides you through the process of decompressing compressed WAV file
 
 **4. Decompress the Files:**
 - After selecting the compressed files in the left panel, click the 'Convert' button. This action will decompress the files and transfer them to the designated location in the right panel.
-:sunglasses:
 
 ---
 

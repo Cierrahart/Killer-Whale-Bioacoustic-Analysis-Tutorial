@@ -48,4 +48,4 @@ This section guides you through the process of importing and analyzing sound fil
 
 ---
 
-[← Previous: Preparing Results for Raven Pro](4-PreparingResultsForRavenPro.md) | [Next: Statistical Analysis →](6-StatisticalAnalysis.md) 
+[← Previous: Preparing Results for Raven Pro](4-PreparingResultsForRavenPro.md) | [Next: Creating a Figure for Analysis →](6-CreatingaFigureForAnalysis.md) 
